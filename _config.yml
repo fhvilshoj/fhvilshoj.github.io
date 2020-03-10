@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Frederik Hvilshø"
 title_separator          : "-"
 name                     : &name "Frederik Hvilshøj"
-description              : &description "PhD student at AU, researchin Normalizing Flows and explainability for Deep Learning."
+description              : &description "PhD student at AU, researching Normalizing Flows and Explainability for Deep Learning."
 url                      : https://fhvilshoj.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fhvilshoj/fhvilshoj.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Frederik Hvilshøj"
-  avatar           : "profile.png"
-  bio              : "PhD student at AU, researchin Normalizing Flows and explainability for Deep Learning."
+  avatar           : "profile.jpg"
+  bio              : "PhD student at AU, researching Normalizing Flows and Explainability for Deep Learning."
   location         : "Aarhus, Denmark"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "fhvilshoj"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "fhvilshoj"
   vine             :
   weibo            :
   xing             :
