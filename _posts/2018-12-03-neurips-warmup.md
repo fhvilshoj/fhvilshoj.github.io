@@ -3,6 +3,7 @@ title: "NeurIPS warm up"
 date: 2018-12-03
 author: frederik
 permalink: /posts/2018/12/neurips-warmup
+teaser: content/swag.jpg
 tags:
   - NeurIPS
   - Conference

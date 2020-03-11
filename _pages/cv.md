@@ -77,5 +77,5 @@ redirect_from:
 </ul>
 
 ## Service and leadership
-* <span class="text-info">2016-2017</span> Board member at the local Computer Science Student Organization ([DSAU]()) as Aarhus University
+* <span class="text-info">2016-2017</span> Board member of the Computer Science student organization ([DSAU](https://dsau.dk/)) as Aarhus University.
 * Endless hours of gymnastics teaching.

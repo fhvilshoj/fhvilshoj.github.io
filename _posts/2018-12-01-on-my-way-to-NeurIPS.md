@@ -2,7 +2,7 @@
 title: "On My Way to the NeurIPS conference"
 date: 2018-12-01
 author: frederik
-permalink: /posts/2018/12/neurips-warmup
+permalink: /posts/2018/12/on-my-way
 tags:
   - NeurIPS
   - Conference
