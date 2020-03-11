@@ -1,13 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+frederik:
+  name        : "Frederik Hvilshøj"
+  uri         : "http://fhvilshoj.github.io"
+  email       : "fhvilshoj@gmail.com"
+  bio         : "PhD student at Aarhus University."
+  avatar      : "profile.jpg"
+  twitter     : "fhvilshoj"
 
 Name2 Name2:
   name        : "Name2 Name2"

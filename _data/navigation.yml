@@ -11,9 +11,12 @@ main:
     
   - title: "Blog Posts"
     url: /year-archive/
+
+  - title: "ML Notes"
+    url: /ml-notes/
     
-  - title: "Publications"
-    url: /publications/
+    # - title: "Publications"
+    # url: /publications/
 
     # - title: "Portfolio"
     # url: /portfolio/
