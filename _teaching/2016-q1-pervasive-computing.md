@@ -2,7 +2,7 @@
 title: "Pervasive Computing (Operating Systems)"
 collection: teaching
 type: "Bachelor Course"
-permalink: /teaching/2016-fall-q1-databases
+permalink: /teaching/2016-fall-q1-pervasive-computing
 venue: "AU, Dept. of Computer Science"
 date: 2016-02-01
 location: "Aarhus, Denmark"
