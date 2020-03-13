@@ -190,6 +190,9 @@ collections:
   mlnotes:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -256,6 +259,15 @@ defaults:
       share: true
       read_time: true
       comments: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      read_time: false
+
 
 # Sass/SCSS
 sass:

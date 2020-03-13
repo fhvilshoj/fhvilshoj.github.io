@@ -58,6 +58,13 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+## Projects
+  <ul>
+	{% for post in site.projects reversed %}
+		{% include archive-project.html %}
+	{% endfor %}
+  </ul>
+
 ## Skills
 * Python
   * Tensorflow
