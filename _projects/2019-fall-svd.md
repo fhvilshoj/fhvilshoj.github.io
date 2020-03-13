@@ -1,5 +1,5 @@
 ---
-title: "What if Neural Networks has SVDs?"
+title: "What if Neural Networks had SVDs?"
 type: "In Review"
 permalink: /projects/2019-fall-what-if-neural-networks-had-svds
 date: 2019-10-15
