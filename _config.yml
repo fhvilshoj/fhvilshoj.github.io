@@ -55,6 +55,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
+
 # Social Sharing
 twitter:
   username               : &twitter
@@ -77,6 +78,8 @@ analytics:
   google:
     tracking_id          : "UA-129589631-1"
 
+
+follow_footer       : false
 
 # Site Author
 author:
@@ -179,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   # portfolio:
     # output: true
