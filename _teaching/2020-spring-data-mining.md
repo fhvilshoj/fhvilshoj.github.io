@@ -5,7 +5,6 @@ type: "Master Course"
 permalink: /teaching/2020-spring-data-mining
 venue: "AU, Dept. of Computer Science"
 date: 2020-02-01
-teaser: "hej med dig"
 location: "Aarhus, Denmark"
 ---
 _Please note that this course is on going._
