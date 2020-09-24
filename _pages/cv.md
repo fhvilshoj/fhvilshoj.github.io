@@ -27,6 +27,27 @@ redirect_from:
     	<b>Bachelor thesis</b>: <i>Compiler for the programming language Tiger, Grade: 12</i>.
 	</li>
 </ul>
+
+## Publications
+<ul>
+	{% for post in site.publications reversed %}
+		<div class="{{ include.type | default: "list" }}__item">
+			<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+				<li>
+					<h3 class="archive__item-title" itemprop="headline">
+						{% if post.link %}
+							<a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+						{% else %}
+        					<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+						{% endif %}
+					</h3>
+    				{% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+    				{% if post.venue%}<p class="archive__item-excerpt" itemprop="description">Published at {{ post.venue }},  {{post.location}}</p>{% endif %}
+				</li>
+			</article>
+		</div>
+	{% endfor %}
+</ul>
   
 ## Teaching
   <ul>
