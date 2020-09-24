@@ -78,6 +78,7 @@ redirect_from:
   
 ## Portfolio
 <ul>
+	<li>Layer-wise Relevance Propagation (LRP) framework for PyTorch 1.6 available on <a href="https://github.com/fhvilshoj/TorchLRP">GitHub</a>.</li>
 	<li>Automatic Layer-wise Relevance Propagation (LRP) framework for Tensorflow 1.4 available on <a href="https://github.com/fhvilshoj/lrp">GitHub</a>.</li>
 	<li>Expectation Maximization for Kalman Filters <a href="https://github.com/fhvilshoj/greensteam">GitHub</a>.</li>
 	<li>Material from study group on GANs <a href="https://github.com/fhvilshoj/GANs">GitHub</a>.</li>
