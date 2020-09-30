@@ -14,8 +14,6 @@ Their main downside is the additional computational resources required to perfor
 We identify a computational bottleneck for previous work on Householder matrices, and introduce a novel algorithm, FastH, which 
 circumvents the bottleneck and is up to $29\times$ faster than a previous method. 
 
-[Download paper here](https://invertibleworkshop.github.io/accepted_papers/pdfs/10.pdf)
-
 BibTeX:
 ```
 @inproceedings{fasth,

@@ -4,7 +4,8 @@ collection: publications
 permalink: /publication/fast-frechet-inception-distance
 excerpt: 'The paper presents a fast algorithm, FastFID, for computinging the Fréchet Inception Distance (FID) on a small bacth. The algorithm allows monitoring the FID of GANs during training as well as efficient computation of adversarial examples for FID.'
 date: 2020-12-01
-venue: '[Under review] NeurIPS 2020'
+paperurl: 'https://arxiv.org/abs/2009.14075'
+venue: Preprint
 ---
 
 The Fréchet Inception Distance (FID) has been used to evaluate thousands of generative models. 
