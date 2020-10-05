@@ -12,11 +12,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Blog Posts"
-    url: /year-archive/
+    #  - title: "Blog Posts"
+    #  url: /year-archive/
 
-  - title: "ML Notes"
-    url: /ml-notes/
+    # - title: "ML Notes"
+    # url: /ml-notes/
     
 
     # - title: "Portfolio"
