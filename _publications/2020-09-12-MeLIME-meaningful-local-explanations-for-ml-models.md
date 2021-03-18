@@ -5,7 +5,7 @@ permalink: /publication/melime-meaningful-local-explanations-for-machine-learnin
 excerpt: 'We present ideas on how to improve the highly popular explanation method LIME.'
 date: 2020-09-12
 paperurl: 'https://arxiv.org/abs/2009.05818'
-venue: [Under review]
+venue: arXiv
 ---
 
 In this work, we introduce ideas on how to improve the popular explanation method LIME.
