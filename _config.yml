@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Frederik Hvilshøj"
 title_separator          : "-"
 name                     : &name "Frederik Hvilshøj"
-description              : &description "PhD student at AU, researching Normalizing Flows and Explainability for Deep Learning.<br/>Finishing PhD in Machine Learning Fall 2021, applying for internships before summer 2021 and jobs after."
+description              : &description "PhD student at AU, researching Normalizing Flows and Explainability for Deep Learning.<br/>Finishing PhD in Machine Learning Fall 2021."
 url                      : https://fhvilshoj.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fhvilshoj/fhvilshoj.github.io"
@@ -85,7 +85,7 @@ follow_footer       : false
 author:
   name             : "Frederik Hvilshøj"
   avatar           : "profile.jpg"
-  bio              : "PhD student at AU, researching Normalizing Flows and Explainability for Deep Learning.<br/>Finishing PhD in Machine Learning Fall 2021, applying for internships before summer 2021 and jobs after."
+  bio              : "PhD student at AU, researching Normalizing Flows and Explainability for Deep Learning.<br/>Finishing PhD in Machine Learning Fall 2021."
   location         : "Ringkøbing, Denmark"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
