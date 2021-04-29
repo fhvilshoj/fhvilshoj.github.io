@@ -7,6 +7,8 @@ venue: "AU, Dept. of Computer Science"
 date: 2017-02-01
 location: "Aarhus, Denmark"
 ---
+<i class="fas fa-trophy" style="color: gold;"></i> Awarded TA of the year at Computer Science [(AU)](https://www.cs.au.dk) for teaching this course.
+
 The [Introduction to Databases](https://kursuskatalog.au.dk/en/course/72630/Introduction-to-Databases) course covers basic SQL, relational algebra, relational calculus, normal forms and concurrency control.
 
 Personal feedback from students in my class:
